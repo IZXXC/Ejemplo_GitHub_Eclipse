@@ -1,6 +1,7 @@
 import java.math.BigInteger;
 
 public class RSA {
+	String m ="";
 
 	private BigInteger p =new BigInteger("36515209"); 
 
